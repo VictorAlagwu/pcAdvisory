@@ -1,6 +1,6 @@
 <?php
 
-require '../expertsystem/database/Connection.php';
+require $_SERVER['DOCUMENT_ROOT']. '/pcAdvisory/database/connection.php';
 ?>
 <!DOCTYPE html>
 <html>

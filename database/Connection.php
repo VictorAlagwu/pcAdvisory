@@ -2,7 +2,7 @@
 
 $username = 'root';
 $dsn = 'mysql:host=localhost; dbname=expert_system';
-$password = '';
+$password = 'victor';
 
 try{
     //create an instance of the PDO class with the required parameters

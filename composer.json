@@ -1,0 +1,13 @@
+{
+    "name": "victoralagwu/pcadvisory",
+    "description": "An expertsystem that helps diagonise PCs problems",
+    "type": "project",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "VictorAlagwu",
+            "email": "victoralagwu@gmail.com"
+        }
+    ],
+    "require": {}
+}

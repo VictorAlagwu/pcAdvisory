@@ -1,6 +1,6 @@
 <?php 
     // include '../database/session.php';
-    include '../database/Connection.php';
+    include  $_SERVER['DOCUMENT_ROOT'].'/pcAdvisory/database/Connection.php';
    
 ?>
 
