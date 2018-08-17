@@ -1,6 +1,7 @@
 <?php
+define('DATABASE', 'database/' .'../database/');
 
-require $_SERVER['DOCUMENT_ROOT']. '/pcAdvisory/database/connection.php';
+require DATABASE.'connection.php';
 ?>
 <!DOCTYPE html>
 <html>
@@ -19,7 +20,6 @@ require $_SERVER['DOCUMENT_ROOT']. '/pcAdvisory/database/connection.php';
 	<link rel="stylesheet" type="text/css" href="assets/css/twitter.css">
 	<link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	<link href="assets/css/main.css" rel="stylesheet">
-    <link href="assets/css/responsive.css" rel="stylesheet"> 
 </head>
 <body>
  <header id="header">

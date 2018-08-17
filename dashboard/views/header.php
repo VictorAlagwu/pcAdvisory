@@ -1,6 +1,8 @@
 <?php 
     // include '../database/session.php';
-    include  $_SERVER['DOCUMENT_ROOT'].'/pcAdvisory/database/Connection.php';
+    define('DATABASE', 'database/' .'../database/');
+
+    require DATABASE.'connection.php';
    
 ?>
 
