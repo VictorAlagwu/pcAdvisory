@@ -1,8 +1,8 @@
 <?php 
     // include '../database/session.php';
-    define('DATABASE', 'database/' .'../database/');
-
-    require DATABASE.'connection.php';
+   
+    require $_SERVER['DOCUMENT_ROOT'].'/pcadvisory/database/connection.php';
+   
    
 ?>
 
